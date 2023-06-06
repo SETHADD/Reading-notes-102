@@ -1,8 +1,8 @@
 # Reading Notes
 ## INTRODUCTION
 My name is Seth a Full Stack Developer with a taste for data.   
-I am here to share all that I will learn in the next 10 weeks. Stay tuned for more updates.  
-I love football and a fan of **_LIVERPOOL_**
+I am here to share my growth process in the next 10 weeks. Stay tuned for more updates.  
+I love football and a fan of **_LIVERPOOL_**  
 ***
 
 ## The Growth Mindset
