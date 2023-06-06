@@ -10,14 +10,13 @@ Growth Mindset sets anyone apart as the Sky does not become the limit but the st
 A growth mindset is a belief that you can develop your skills and talents through hard work, the right strategies, and guidance from others.
 #### HISTORY
 - The term growth mindset was coined by American psychologist Professor Carol Dweck in her 2006 book Mindset: The New Psychology of Success.
-##### How To Keep a Growth Mindset 
-**NOTE TO SELF;**
+#### How To Keep a Growth Mindset (_note to self_)
+
 + Determine where you sit now
 + Change your perspective on failure
 + Understand your own limitations
 ***
-#### With Growth Mindset this is no obstacle
-![A book](https://media.istockphoto.com/id/1095931700/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=8XxLnui3DCmaauFgdRfLq3dPuT2ggW9dVF9kQAmthh8=)
-***
+#### With a Growth Mindset there is no mountain so high
+![hurdle](https://i.pinimg.com/736x/42/43/4b/42434bfc8cbe330e3d84e3c03e743d73.jpg)
 ## THE LINK TO THE PAGE
 [link to the website](https://sethadd.github.io/Reading-notes-102/)
