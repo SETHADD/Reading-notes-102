@@ -2,7 +2,8 @@
 ## INTRODUCTION
 My name is Seth a Full Stack Developer with a taste for data.   
 I am here to share my growth process in the next 10 weeks. Stay tuned for more updates.  
-I love football and a fan of **_LIVERPOOL_**  
+I love football and a fan of **_LIVERPOOL_**
+
 ***
 
 ## The Growth Mindset
@@ -15,6 +16,7 @@ A growth mindset is a belief that you can develop your skills and talents throug
 + Determine where you sit now
 + Change your perspective on failure
 + Understand your own limitations
+
 ***
 #### With a Growth Mindset there is no mountain so high
 ![hurdle](https://i.pinimg.com/736x/42/43/4b/42434bfc8cbe330e3d84e3c03e743d73.jpg)
