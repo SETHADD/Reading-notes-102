@@ -7,7 +7,8 @@ I love football and a fan of **_LIVERPOOL_**
 
 ## The Growth Mindset
 >Growth Mindset sets anyone apart as the Sky does not become the limit but the starting point for growth.  
-A growth mindset is a belief that you can develop your skills and talents through hard work, the right strategies, and guidance from others.
+A growth mindset is a belief that you can develop your skills and talents through hard work, the right strategies, and guidance from others.  
+
 #### HISTORY
 - The term growth mindset was coined by American psychologist Professor Carol Dweck in her 2006 book Mindset: The New Psychology of Success.
 #### How To Keep a Growth Mindset (_note to self_)
