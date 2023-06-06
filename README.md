@@ -1,4 +1,4 @@
-# Reading-notes-102 (THE PROJECT)
+# Reading Notes
 ## INTRODUCTION
 My name is Seth a Full Stack Developer with a taste for data.   
 I am here to share all that I will learn in the next 10 weeks. Stay tuned for more updates.  
