@@ -5,15 +5,15 @@
 - [The Growth Mindset](#the-growth-mindset)
 - [History](#history)
 - [Link to the page](#the-link-to-the-page)
-## CLASS 102
-- [Class-1](/102/class_1.md)
-- [class-2 (MARKDOWN AND GIT)](/102/class_2.md)
-- [Class-3](/102/class_3.md)
-- [Class-4](/102/class_4.md)
-- [Class-5](/102/class_5.md)
-- [Class-6](/102/class_6.md)
-- [Class-7](/102/class_7.md)
-- [Class-8](/102/class_8.md)
+- CLASS 102
+      - [Class-1](/102/class_1.md)
+     - [class-2 (MARKDOWN AND GIT)](/102/class_2.md)
+     - [Class-3](/102/class_3.md)
+     - [Class-4](/102/class_4.md)
+     - [Class-5](/102/class_5.md)
+     - [Class-6](/102/class_6.md)
+     - [Class-7](/102/class_7.md)
+     - [Class-8](/102/class_8.md)
 
 ## INTRODUCTION
 My name is Seth a Full Stack Developer with a taste for data.   
