@@ -5,8 +5,9 @@
 - [The Growth Mindset](#the-growth-mindset)
 - [History](#history)
 - [Link to the page](#the-link-to-the-page)
-- CLASS 102
-      - [Class-1](/102/class_1.md)
+- CLASS 102   
+
+     - [Class-1](/102/class_1.md)
      - [class-2 (MARKDOWN AND GIT)](/102/class_2.md)
      - [Class-3](/102/class_3.md)
      - [Class-4](/102/class_4.md)
