@@ -15,6 +15,23 @@
      - [Class-6](/102/class_6.md)
      - [Class-7](/102/class_7.md)
      - [Class-8](/102/class_8.md)
+- CLASS 201
+
+    - [Class-1 (Continuation of JS- About me project with prompts)](/201/class_1.md)
+    - [Class-2 (About me project with quiz)](/201/class_2.md)
+    - [Class-3 ()](/201/class_3.md)
+    - [Class-4 ()](/201/class_4.md)
+    - [Class-5 ()](/201/class_5.md)
+    - [Class-6 ()](/201/class_6.md)
+    - [Class-7 ()](/201/class_7.md)
+    - [Class-8 ()](/201/class_8.md)
+    - [Class-9 ()](/201/class_9.md)
+    - [Class-10 ()](/201/class_10.md)
+    - [Class-11 ()](/201/class_11.md)
+    - [Class-12 ()](/201/class_12.md)
+    - [Class-13 ()](/201/class_13.md)
+    - [Class-14 ()](/201/class_14.md)
+    - [Class-15 ()](/201/class_15.md)
 
 ## INTRODUCTION
 My name is Seth a Full Stack Developer with a taste for data.   
